@@ -29,5 +29,5 @@ I build smart tools that simplify financial workflows using Python, Pandas, Flas
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fintechzain)
 - 💻 Explore my projects below ⬇️
