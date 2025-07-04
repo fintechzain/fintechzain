@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Zain Farooq
 
-<!--
-**fintechzain/fintechzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 ACCA Part-Qualified | Python Developer | Finance Automation
 
-Here are some ideas to get you started:
+I build smart tools that simplify financial workflows using Python, Pandas, Flask, and AI. With a background in accounting and strong coding skills, I create solutions that blend automation with financial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects I’ve Built
+
+- 🧾 **Freelancer Profit Analyzer**  
+  Track earnings from Fiverr, Upwork, and clients. See monthly profits after fees, expenses, and taxes — with AI-powered tips to improve income.
+
+- 📊 **Automated Financial Statement Generator**  
+  Upload Excel/CSV data and generate clean Income Statements, KPIs, and performance summaries with AI insights.
+
+- 🧹 **Excel/CSV Data Cleaner & Analyzer**  
+  Remove duplicates, fix formatting, analyze trends, and export clean reports using Python + Pandas.
+
+## 💼 Background
+
+- 📘 ACCA Part-Qualified (Strategic Level)  
+- 🎓 CS50x (Harvard): Introduction to Computer Science  
+- 📚 Self-taught in Python, Pandas, Flask, APIs, Automation
+
+## 🧰 Tech Stack
+
+- Languages: Python, HTML, CSS, JavaScript  
+- Tools: Pandas, NumPy, Flask, SQLite, Git, API Integration  
+- Focus Areas: Financial Automation, Data Cleaning, Dashboarding, AI Reports
+
+## 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
+- 💻 Explore my projects below ⬇️
